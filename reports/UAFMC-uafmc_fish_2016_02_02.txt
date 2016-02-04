@@ -1,0 +1,81 @@
+Report for Institution Code UAFMC, Resource Fish
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "percina nasuta" ; Times: 4
+	Query: "Loricariidae United States" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 507 download events in this period)
+Total number of records downloaded: 3732 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3721
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 12
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:"United States"" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "family:Catostomidae country:"United States"" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: "family:Moronidae country:"United States"" ; Times: 1
+	Query: "family:Poeciliidae country:"United States"" ; Times: 1
+	Query: "family:Esocidae country:"United States"" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "family:Amblyopsidae country:"United States"" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Pleuronectidae country:"United States"" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:"United States"" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "family:Osmeridae country:"United States"" ; Times: 1
+	Query: "family:Cyprinidae country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 3732
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 6
+Total number of records retrieved from searches: 18
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 3732
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
