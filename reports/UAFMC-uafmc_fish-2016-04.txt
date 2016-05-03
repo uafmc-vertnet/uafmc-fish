@@ -1,0 +1,114 @@
+Report for Institution Code UAFMC, Resource uafmc_fish
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1312 download events in this period)
+Total number of records downloaded: 1498
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Panama ; Times: 87
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-19 ; Times: 23
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+	Date: 2016-04-22 ; Times: 45
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "ETMOPTERIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "COTTIDAE" ; Times: 3
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+
+
+End of report.
