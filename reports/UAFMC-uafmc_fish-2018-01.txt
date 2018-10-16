@@ -1,0 +1,77 @@
+Report for Institution Code UAFMC, Resource uafmc_fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 172
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 12
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 6
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-17 ; Times: 8
+	Date: 2018-01-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;white bass&#34; hastissue:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Dascyllus albisella" ; Times: 1
+	Query: "Chromis enchrysurus" ; Times: 1
+	Query: "Plectroglyphidodon johnstonianus" ; Times: 1
+	Query: "R. Kirk Strawn" ; Times: 1
+	Query: "Chromis bicolor" ; Times: 1
+	Query: "Chromis hanui" ; Times: 1
+	Query: "genus:aulostomus hastissue:1" ; Times: 1
+	Query: "hybopsis dissimilis" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "Chromis ovalis" ; Times: 1
+	Query: "Striped Bass hastissue:1" ; Times: 1
+	Query: "Opsanus beta" ; Times: 2
+	Query: "Cutthroat Trout hastissue:1" ; Times: 3
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Kirk Strawn" ; Times: 2
+	Query: "Chromis verater" ; Times: 1
+	Query: "Least Darter" ; Times: 2
+	Query: "&#34;White sucker&#34; hastissue:1" ; Times: 3
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "&#34;Morone chrysops&#34; hastissue:1" ; Times: 3
+	Query: "&#34;Striped bass&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1398 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "county:&#34;Putnam&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+
+
+End of report.
