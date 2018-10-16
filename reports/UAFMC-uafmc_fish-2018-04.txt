@@ -1,0 +1,66 @@
+Report for Institution Code UAFMC, Resource uafmc_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 110
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:29d54fb6-ed46-4a75-9697-55b73e63beed" ; Times: 1
+	Query: "genus:Xyrauchen" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "&#34;Pacific herring&#34; hastissue:1" ; Times: 1
+	Query: "Hiodon hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1359 download events in this period)
+Total number of records downloaded: 108
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 8
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+
+
+End of report.
