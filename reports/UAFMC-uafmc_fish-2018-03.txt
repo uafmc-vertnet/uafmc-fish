@@ -1,0 +1,87 @@
+Report for Institution Code UAFMC, Resource uafmc_fish
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 1140
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 121
+	Country: Brazil ; Times: 2
+	Country: Thailand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-20 ; Times: 7
+	Date: 2018-03-02 ; Times: 12
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-05 ; Times: 8
+	Date: 2018-03-06 ; Times: 9
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 33
+	Date: 2018-03-27 ; Times: 30
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-23 ; Times: 7
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Opsanus specificepithet:beta" ; Times: 2
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 9
+	Query: "genus:Luxilus specificepithet:pilsbryi" ; Times: 2
+	Query: "genus:Luxilus specificepithet:cardinalis" ; Times: 5
+	Query: "genus:Exoglossum specificepithet:maxillingua" ; Times: 2
+	Query: "genus:Notropis specificepithet:heterolepis" ; Times: 2
+	Query: "Monocirrhus polyacanthus" ; Times: 2
+	Query: "genus:Lythrurus specificepithet:ardens" ; Times: 2
+	Query: "genus:Nocomis specificepithet:asper" ; Times: 5
+	Query: "genus:Cyprinella specificepithet:formosa" ; Times: 6
+	Query: "genus:Forbesichthys specificepithet:agassizii" ; Times: 5
+	Query: "genus:Notropis specificepithet:ariommus" ; Times: 6
+	Query: "genus:Notropis specificepithet:nubilus" ; Times: 2
+	Query: "genus:Notropis specificepithet:greenei" ; Times: 6
+	Query: "genus:Hybognathus specificepithet:hayi" ; Times: 2
+	Query: "specificepithet:cardinalis genus:luxilus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Erimystax specificepithet:dissimilis" ; Times: 2
+	Query: "specificepithet:cardinalis genus:luxilus stateprovince:&#34;Arkansas&#34; year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "genus:Cymatogaster specificepithet:aggregata" ; Times: 2
+	Query: "genus:Luxilus specificepithet:zonatus" ; Times: 2
+	Query: "genus:Notropis specificepithet:ortenburgeri" ; Times: 6
+	Query: "genus:Notropis specificepithet:atrocaudalis" ; Times: 6
+	Query: "CU 62" ; Times: 1
+	Query: "genus:Porichthys specificepithet:porosissimus" ; Times: 5
+	Query: "genus:Typhlichthys specificepithet:subterraneus" ; Times: 5
+	Query: "genus:Sphoeroides specificepithet:nephelus" ; Times: 2
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 5
+	Query: "genus:Notropis specificepithet:buccatus" ; Times: 2
+	Query: "genus:Ditrema specificepithet:temminckii" ; Times: 5
+	Query: "genus:Notropis specificepithet:girardi" ; Times: 6
+	Query: "genus:Ophiodon specificepithet:elongatus" ; Times: 2
+	Query: "genus:Myoxocephalus specificepithet:polyacanthocephalus" ; Times: 2
+	Query: "genus:Gila specificepithet:robusta" ; Times: 5
+	Query: "genus:Dionda specificepithet:episcopa" ; Times: 2
+	Query: "specificepithet:symmetricus genus:Lepomis order:Perciformes stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Chologaster specificepithet:cornuta" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1284 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Monocirrhus polyacanthus" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 2
+
+
+End of report.
