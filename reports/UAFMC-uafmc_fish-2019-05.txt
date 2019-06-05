@@ -1,0 +1,38 @@
+Report for Institution Code UAFMC, Resource uafmc_fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: New Zealand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "Gila intermedia" ; Times: 2
+	Query: "Gila chub" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 940 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
