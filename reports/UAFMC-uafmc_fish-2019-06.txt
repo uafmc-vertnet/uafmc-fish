@@ -1,0 +1,107 @@
+Report for Institution Code UAFMC, Resource uafmc_fish
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 396
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: New Zealand ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 4
+	Date: 2019-06-27 ; Times: 4
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 28
+	Date: 2019-06-10 ; Times: 20
+	Date: 2019-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Opsanus specificepithet:beta" ; Times: 1
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 3
+	Query: "genus:Microgadus specificepithet:proximus" ; Times: 1
+	Query: "genus:Luxilus specificepithet:pilsbryi" ; Times: 1
+	Query: "genus:Cirrhitus specificepithet:pinnulatus" ; Times: 1
+	Query: "genus:Luxilus specificepithet:cardinalis" ; Times: 1
+	Query: "genus:Cheilio specificepithet:inermis" ; Times: 1
+	Query: "genus:Notropis specificepithet:heterolepis" ; Times: 1
+	Query: "genus:Lythrurus specificepithet:ardens" ; Times: 1
+	Query: "genus:Nocomis specificepithet:asper" ; Times: 1
+	Query: "genus:Plagopterus specificepithet:argentissimus" ; Times: 1
+	Query: "genus:Cyprinella specificepithet:formosa" ; Times: 1
+	Query: "genus:Hiodon specificepithet:tergisus" ; Times: 1
+	Query: "genus:Notropis specificepithet:ariommus" ; Times: 1
+	Query: "genus:Erimystax specificepithet:dissimilis" ; Times: 1
+	Query: "genus:Notropis specificepithet:atrocaudalis" ; Times: 1
+	Query: "genus:Notropis specificepithet:greenei" ; Times: 1
+	Query: "genus:Gila specificepithet:robusta" ; Times: 1
+	Query: "genus:Hybognathus specificepithet:hayi" ; Times: 1
+	Query: "genus:Notropis specificepithet:nubilus" ; Times: 1
+	Query: "genus:Cymatogaster specificepithet:aggregata" ; Times: 1
+	Query: "genus:Alectis specificepithet:ciliaris" ; Times: 1
+	Query: "family:Ogcocephalidae institutioncode:UAFMC hastissue:1" ; Times: 4
+	Query: "genus:Luxilus specificepithet:zonatus" ; Times: 1
+	Query: "genus:Macropharyngodon specificepithet:geoffroy" ; Times: 1
+	Query: "genus:Pseudojuloides specificepithet:cerasinus" ; Times: 1
+	Query: "genus:Notropis specificepithet:ortenburgeri" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 2
+	Query: "genus:Apeltes specificepithet:quadracus" ; Times: 1
+	Query: "Blackbanded sunfish" ; Times: 1
+	Query: "genus:Ctenopharyngodon specificepithet:idella" ; Times: 1
+	Query: "genus:Forbesichthys specificepithet:agassizii" ; Times: 1
+	Query: "genus:Typhlichthys specificepithet:subterraneus" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:nephelus" ; Times: 1
+	Query: "genus:Clinocottus specificepithet:globiceps" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 2
+	Query: "genus:Notropis specificepithet:buccatus" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 2
+	Query: "Pristis pristis" ; Times: 1
+	Query: "genus:Porichthys specificepithet:porosissimus" ; Times: 1
+	Query: "genus:Scaphirhynchus specificepithet:platorynchus" ; Times: 1
+	Query: "genus:Ditrema specificepithet:temminckii" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "genus:Ophiodon specificepithet:elongatus" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:polyacanthocephalus" ; Times: 1
+	Query: "genus:Ctenochaetus specificepithet:strigosus" ; Times: 1
+	Query: "genus:Dionda specificepithet:episcopa" ; Times: 1
+	Query: "genus:Coris specificepithet:venusta" ; Times: 1
+	Query: "genus:Chologaster specificepithet:cornuta" ; Times: 1
+	Query: "genus:Astroscopus specificepithet:y-graecum" ; Times: 1
+	Query: "genus:Zanclus specificepithet:cornutus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1182 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "coho" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "brook trout" ; Times: 2
+	Query: "beavers" ; Times: 1
+	Query: "coho salmon" ; Times: 4
+	Query: "Oncorhynchus clarkii" ; Times: 2
+	Query: "genus:Lutjanus hastissue:1" ; Times: 1
+	Query: "bob cat" ; Times: 1
+	Query: "Beavers" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+
+
+End of report.
