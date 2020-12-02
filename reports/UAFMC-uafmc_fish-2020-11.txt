@@ -1,0 +1,58 @@
+Report for Institution Code UAFMC, Resource uafmc_fish
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 21
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-16 ; Times: 2
+	Date: 2020-11-02 ; Times: 10
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "specificepithet:globiceps genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:entomelas genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 1
+	Query: "shovelnose sturgeon" ; Times: 2
+	Query: "specificepithet:elongatus genus:Ophiodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ditrema" ; Times: 1
+	Query: "Coris venusta" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Cheilio inermis" ; Times: 2
+	Query: "Suckermouth Catfish" ; Times: 1
+	Query: "NOTURUS LACHNERI" ; Times: 1
+	Query: "specificepithet:proximus genus:Microgadus stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 842 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+
+
+End of report.
